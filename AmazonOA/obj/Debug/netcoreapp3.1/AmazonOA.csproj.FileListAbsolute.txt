@@ -1,0 +1,13 @@
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\bin\Debug\netcoreapp3.1\AmazonOA.exe
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\bin\Debug\netcoreapp3.1\AmazonOA.deps.json
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\bin\Debug\netcoreapp3.1\AmazonOA.runtimeconfig.json
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\bin\Debug\netcoreapp3.1\AmazonOA.runtimeconfig.dev.json
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\bin\Debug\netcoreapp3.1\AmazonOA.dll
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\bin\Debug\netcoreapp3.1\AmazonOA.pdb
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\obj\Debug\netcoreapp3.1\AmazonOA.csproj.AssemblyReference.cache
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\obj\Debug\netcoreapp3.1\AmazonOA.AssemblyInfoInputs.cache
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\obj\Debug\netcoreapp3.1\AmazonOA.AssemblyInfo.cs
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\obj\Debug\netcoreapp3.1\AmazonOA.csproj.CoreCompileInputs.cache
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\obj\Debug\netcoreapp3.1\AmazonOA.dll
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\obj\Debug\netcoreapp3.1\AmazonOA.pdb
+C:\Users\Praveen\Desktop\kalAcademy\Programs\AmazonOA\obj\Debug\netcoreapp3.1\AmazonOA.genruntimeconfig.cache
